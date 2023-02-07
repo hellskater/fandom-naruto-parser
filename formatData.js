@@ -48,4 +48,45 @@ const formatData = () => {
     fs.writeFileSync("characters.json", JSON.stringify(updatedCharacters));
 };
 
+const indexCharacters = () => {
+  const characters = JSON.parse(fs.readFileSync("characters.json"));
+  // give each character an id
+  characters.forEach((character, index) => {
+    character.id = index;
+  });
+  fs.writeFileSync("characters.json", JSON.stringify(characters));
+};
+
+const formatFieldsAlphabetically = () => {
+  const characters = JSON.parse(fs.readFileSync("characters.json"));
+  const sortedCharacters = characters.map((character) => {
+    const keys = Object.keys(character);
+    const sortedKeys = keys.sort();
+    const sortedCharacter = {};
+    sortedKeys.forEach((key) => {
+      if (key === "id") {
+        sortedCharacter[key] = character[key];
+      }
+    });
+    sortedKeys.forEach((key) => {
+      if (key === "name") {
+        sortedCharacter[key] = character[key];
+      }
+    });
+    sortedKeys.forEach((key) => {
+      if (key === "images") {
+        sortedCharacter[key] = character[key];
+      }
+    });
+
+    sortedKeys.forEach((key) => {
+      sortedCharacter[key] = character[key];
+    });
+    return sortedCharacter;
+  });
+  fs.writeFileSync("characters.json", JSON.stringify(sortedCharacters));
+};
+
 formatData();
+// indexCharacters();
+formatFieldsAlphabetically();
