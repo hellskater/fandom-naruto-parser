@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Amegakure",
     "characters": [
       {
@@ -949,6 +950,7 @@
     ]
   },
   {
+    "id": 1,
     "name": "Bamboo Village",
     "characters": [
       {
@@ -997,6 +999,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Ceramic Village",
     "characters": [
       {
@@ -1030,8 +1033,9 @@
       }
     ]
   },
-  { "name": "Curtain Village", "characters": [] },
+  { "id": 3, "name": "Curtain Village", "characters": [] },
   {
+    "id": 4,
     "name": "Daidai Village",
     "characters": [
       {
@@ -1305,6 +1309,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Genjutsu Tree Village",
     "characters": [
       {
@@ -1354,6 +1359,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Hachō Village",
     "characters": [
       {
@@ -1410,6 +1416,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Hoshigakure",
     "characters": [
       {
@@ -1593,6 +1600,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Howling Wolf Village",
     "characters": [
       {
@@ -1669,6 +1677,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Inaho Village",
     "characters": [
       {
@@ -1684,6 +1693,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Ishigakure",
     "characters": [
       {
@@ -1754,6 +1764,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Iwagakure",
     "characters": [
       {
@@ -3070,6 +3081,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Jōmae Village",
     "characters": [
       {
@@ -3116,6 +3128,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Kagerō Village",
     "characters": [
       {
@@ -3159,6 +3172,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Kirigakure",
     "characters": [
       {
@@ -5240,9 +5254,10 @@
       }
     ]
   },
-  { "name": "Kisaragi Village", "characters": [] },
-  { "name": "Konohogakure", "characters": [] },
+  { "id": 15, "name": "Kisaragi Village", "characters": [] },
+  { "id": 16, "name": "Konohogakure", "characters": [] },
   {
+    "id": 17,
     "name": "Kumogakure",
     "characters": [
       {
@@ -7061,6 +7076,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Kusagakure",
     "characters": [
       {
@@ -7507,8 +7523,9 @@
       }
     ]
   },
-  { "name": "Mount Katsuragi", "characters": [] },
+  { "id": 19, "name": "Mount Katsuragi", "characters": [] },
   {
+    "id": 20,
     "name": "Mount Myōboku",
     "characters": [
       {
@@ -8448,6 +8465,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Nadeshiko Village",
     "characters": [
       {
@@ -8519,6 +8537,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Otogakure",
     "characters": [
       {
@@ -10187,6 +10206,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Ryūchi Cave",
     "characters": [
       {
@@ -10907,6 +10927,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Shangri-la",
     "characters": [
       {
@@ -10930,6 +10951,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Shikkotsu Forest",
     "characters": [
       {
@@ -11179,9 +11201,10 @@
       }
     ]
   },
-  { "name": "Shimogakure", "characters": [] },
-  { "name": "Sugi Village", "characters": [] },
+  { "id": 26, "name": "Shimogakure", "characters": [] },
+  { "id": 27, "name": "Sugi Village", "characters": [] },
   {
+    "id": 28,
     "name": "Sunagakure",
     "characters": [
       {
@@ -13705,6 +13728,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Takigakure",
     "characters": [
       {
@@ -14090,6 +14114,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Takumi Village",
     "characters": [
       {
@@ -14215,8 +14240,9 @@
       }
     ]
   },
-  { "name": "Tanigakure", "characters": [] },
+  { "id": 31, "name": "Tanigakure", "characters": [] },
   {
+    "id": 32,
     "name": "Tonika Village",
     "characters": [
       {
@@ -14378,6 +14404,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Tsuchigumo Village",
     "characters": [
       {
@@ -14522,6 +14549,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Tsukigakure",
     "characters": [
       {
@@ -14574,6 +14602,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Uzushiogakure",
     "characters": [
       {
@@ -14687,6 +14716,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Yugakure",
     "characters": [
       {
@@ -14775,6 +14805,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Yukigakure",
     "characters": [
       {
@@ -14941,6 +14972,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Yumegakure",
     "characters": [
       {

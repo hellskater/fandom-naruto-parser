@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Akagi Gang",
     "characters": [
       {
@@ -47,6 +48,7 @@
     ]
   },
   {
+    "id": 1,
     "name": "Allied Mothers Force",
     "characters": [
       {
@@ -168,6 +170,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Allied Mothers Force  (Anime only)",
     "characters": [
       {
@@ -213,6 +216,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Ame Orphans",
     "characters": [
       {
@@ -464,6 +468,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Analysis Team",
     "characters": [
       {
@@ -777,6 +782,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "A–B Combo",
     "characters": [
       {
@@ -920,6 +926,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Bikōchū Search Team  (Anime only)",
     "characters": [
       {
@@ -1444,6 +1451,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Byakuya Gang",
     "characters": [
       {
@@ -1514,6 +1522,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Communications Team",
     "characters": [
       {
@@ -1583,6 +1592,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Counter-Terrorism Division",
     "characters": [
       {
@@ -1602,6 +1612,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Counter-Terrorism Division  (Novel only)",
     "characters": [
       {
@@ -1704,6 +1715,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Cypher Division",
     "characters": [
       {
@@ -1798,6 +1810,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Daimyō Protection Squad",
     "characters": [
       {
@@ -1985,6 +1998,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Daimyō Protection Squad  (Anime only)",
     "characters": [
       {
@@ -2029,6 +2043,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Dark Thunder Group  (Novel only)",
     "characters": [
       {
@@ -2064,6 +2079,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Demon Brothers",
     "characters": [
       {
@@ -2151,6 +2167,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Dotō's Three-Man-Team",
     "characters": [
       {
@@ -2237,6 +2254,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Eight Man Squad",
     "characters": [
       {
@@ -3204,6 +3222,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Eight-Tails Subduing Team",
     "characters": [
       {
@@ -3346,6 +3365,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Enlightened Ones",
     "characters": [
       {
@@ -3420,6 +3440,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Escort Unit",
     "characters": [
       {
@@ -3785,6 +3806,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Exploding-Till-You-Eat",
     "characters": [
       {
@@ -3820,6 +3842,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Explosion Corps",
     "characters": [
       {
@@ -3916,6 +3939,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Fabrications",
     "characters": [
       {
@@ -3937,6 +3961,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Fifth Division",
     "characters": [
       {
@@ -4392,6 +4417,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Fifth Division  (Anime only)",
     "characters": [
       {
@@ -4428,6 +4454,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "First Division",
     "characters": [
       {
@@ -4908,6 +4935,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Five Great Countries' Joint Investigation Team",
     "characters": [
       {
@@ -4940,6 +4968,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Four Celestial Symbols Men",
     "characters": [
       {
@@ -5037,6 +5066,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Four Ninja Animal Warriors",
     "characters": [
       {
@@ -5099,6 +5129,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Fourth Division",
     "characters": [
       {
@@ -5575,6 +5606,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Fourth Division  (Anime only)",
     "characters": [
       {
@@ -5621,6 +5653,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Fruit Group",
     "characters": [
       {
@@ -5664,6 +5697,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Furido's 4-Man Team",
     "characters": [
       {
@@ -5800,6 +5834,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Gang of Four",
     "characters": [
       {
@@ -5961,6 +5996,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Garakuta Gang",
     "characters": [
       {
@@ -5981,6 +6017,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Gatō Company",
     "characters": [
       {
@@ -6117,6 +6154,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Genbu Shinobi Trio",
     "characters": [
       {
@@ -6142,6 +6180,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Ghost Army",
     "characters": [
       {
@@ -6195,6 +6234,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Gold and Silver Brothers",
     "characters": [
       {
@@ -6270,6 +6310,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Grass Flower Group",
     "characters": [
       {
@@ -6302,6 +6343,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Haido's Knights",
     "characters": [
       {
@@ -6432,6 +6474,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Hanabi Rescue Team  (Movie only)",
     "characters": [
       {
@@ -7013,6 +7056,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Haze Quadruplets",
     "characters": [
       {
@@ -7111,6 +7155,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Hiruko's Team",
     "characters": [
       {
@@ -7234,6 +7279,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Hokage Guard Platoon",
     "characters": [
       {
@@ -7330,6 +7376,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Hokage Guard Platoon  (Anime only)",
     "characters": [
       {
@@ -7374,6 +7421,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Honoured Siblings",
     "characters": [
       {
@@ -7487,6 +7535,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Impure World Reincarnation Allied Forces",
     "characters": [
       {
@@ -7634,6 +7683,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Impure World Reincarnation Allied Forces  (Anime only)",
     "characters": [
       {
@@ -7686,6 +7736,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Infiltration and Reconnaissance Party",
     "characters": [
       {
@@ -8041,6 +8092,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Ino–Saku–Sai  (Novel only)",
     "characters": [
       {
@@ -8332,6 +8384,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Ino–Shika–Chō",
     "characters": [
       {
@@ -8503,6 +8556,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Intelligence Division",
     "characters": [
       {
@@ -8629,6 +8683,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Ishi Terrorists",
     "characters": [
       {
@@ -8699,6 +8754,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Jako's Gang",
     "characters": [
       {
@@ -8747,6 +8803,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Janin",
     "characters": [
       {
@@ -8826,6 +8883,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Kaima Capture Team  (Anime only)",
     "characters": [
       {
@@ -9293,6 +9351,7 @@
     ]
   },
   {
+    "id": 58,
     "name": "Kanabun Gang",
     "characters": [
       {
@@ -9318,6 +9377,7 @@
     ]
   },
   {
+    "id": 59,
     "name": "Kazekage Rescue Team",
     "characters": [
       {
@@ -9862,6 +9922,7 @@
     ]
   },
   {
+    "id": 60,
     "name": "Kinkaku Force",
     "characters": [
       {
@@ -9902,6 +9963,7 @@
     ]
   },
   {
+    "id": 61,
     "name": "Konoha 11  (Anime only)",
     "characters": [
       {
@@ -11130,6 +11192,7 @@
     ]
   },
   {
+    "id": 62,
     "name": "Konoha Barrier Team",
     "characters": [
       {
@@ -11293,6 +11356,7 @@
     ]
   },
   {
+    "id": 63,
     "name": "Konoha Barrier Team  (Anime only)",
     "characters": [
       {
@@ -11484,6 +11548,7 @@
     ]
   },
   {
+    "id": 64,
     "name": "Konoha Council",
     "characters": [
       {
@@ -11641,6 +11706,7 @@
     ]
   },
   {
+    "id": 65,
     "name": "Konoha Cryptanalysis Team",
     "characters": [
       {
@@ -11721,6 +11787,7 @@
     ]
   },
   {
+    "id": 66,
     "name": "Konoha Military Police Force",
     "characters": [
       {
@@ -11970,6 +12037,7 @@
     ]
   },
   {
+    "id": 67,
     "name": "Konoha Military Police Force  (Anime Only)",
     "characters": [
       {
@@ -12057,6 +12125,7 @@
     ]
   },
   {
+    "id": 68,
     "name": "Konoha Special Mission Platoon",
     "characters": [
       {
@@ -12259,6 +12328,7 @@
     ]
   },
   {
+    "id": 69,
     "name": "Konoha Torture and Interrogation Force",
     "characters": [
       {
@@ -12357,6 +12427,7 @@
     ]
   },
   {
+    "id": 70,
     "name": "Konoha Torture and Interrogation Force  (Anime only)",
     "characters": [
       {
@@ -12396,6 +12467,7 @@
     ]
   },
   {
+    "id": 71,
     "name": "Kumo Barrier Team",
     "characters": [
       {
@@ -12442,6 +12514,7 @@
     ]
   },
   {
+    "id": 72,
     "name": "Kumo Council",
     "characters": [
       {
@@ -12623,6 +12696,7 @@
     ]
   },
   {
+    "id": 73,
     "name": "Kumo Spectators",
     "characters": [
       {
@@ -12671,6 +12745,7 @@
     ]
   },
   {
+    "id": 74,
     "name": "Kurosuki Family",
     "characters": [
       {
@@ -12716,6 +12791,7 @@
     ]
   },
   {
+    "id": 75,
     "name": "Kurosuki Family  (Anime only)",
     "characters": [
       {
@@ -12771,6 +12847,7 @@
     ]
   },
   {
+    "id": 76,
     "name": "Leaf's Anbu",
     "characters": [
       {
@@ -12855,6 +12932,7 @@
     ]
   },
   {
+    "id": 77,
     "name": "Legendary Stupid Brothers",
     "characters": [
       {
@@ -12895,6 +12973,7 @@
     ]
   },
   {
+    "id": 78,
     "name": "Lightning Group",
     "characters": [
       {
@@ -13002,6 +13081,7 @@
     ]
   },
   {
+    "id": 79,
     "name": "Lightning Group  (Anime only)",
     "characters": [
       {
@@ -13034,6 +13114,7 @@
     ]
   },
   {
+    "id": 80,
     "name": "Logistical Support and Medical Division",
     "characters": [
       {
@@ -13195,6 +13276,7 @@
     ]
   },
   {
+    "id": 81,
     "name": "Logistical Support and Medical Division  (Anime only)",
     "characters": [
       {
@@ -13249,6 +13331,7 @@
     ]
   },
   {
+    "id": 82,
     "name": "Magaki Group",
     "characters": [
       {
@@ -13397,6 +13480,7 @@
     ]
   },
   {
+    "id": 83,
     "name": "Medic Corps",
     "characters": [
       {
@@ -13823,6 +13907,7 @@
     ]
   },
   {
+    "id": 84,
     "name": "Mezu Gang",
     "characters": [
       {
@@ -13843,6 +13928,7 @@
     ]
   },
   {
+    "id": 85,
     "name": "Mokuzu Gang",
     "characters": [
       {
@@ -13870,6 +13956,7 @@
     ]
   },
   {
+    "id": 86,
     "name": "Moya Triad",
     "characters": [
       {
@@ -13937,6 +14024,7 @@
     ]
   },
   {
+    "id": 87,
     "name": "Mujina Bandits",
     "characters": [
       {
@@ -14022,6 +14110,7 @@
     ]
   },
   {
+    "id": 88,
     "name": "New Seven Ninja Swordsmen",
     "characters": [
       {
@@ -14221,6 +14310,7 @@
     ]
   },
   {
+    "id": 89,
     "name": "Nokizaru Group",
     "characters": [
       {
@@ -14248,6 +14338,7 @@
     ]
   },
   {
+    "id": 90,
     "name": "Orochimaru Search Team  (Anime only)",
     "characters": [
       {
@@ -14320,6 +14411,7 @@
     ]
   },
   {
+    "id": 91,
     "name": "Peddlers Escort Team  (Anime only)",
     "characters": [
       {
@@ -14698,6 +14790,7 @@
     ]
   },
   {
+    "id": 92,
     "name": "Prajñā Group",
     "characters": [
       {
@@ -14723,6 +14816,7 @@
     ]
   },
   {
+    "id": 93,
     "name": "Puppet Brigade",
     "characters": [
       {
@@ -14883,6 +14977,7 @@
     ]
   },
   {
+    "id": 94,
     "name": "Ryūha Armament Alliance",
     "characters": [
       {
@@ -14937,6 +15032,7 @@
     ]
   },
   {
+    "id": 95,
     "name": "Sasuke Recovery Team",
     "characters": [
       {
@@ -15515,6 +15611,7 @@
     ]
   },
   {
+    "id": 96,
     "name": "Scientific Ninja Weapons Team",
     "characters": [
       {
@@ -15665,6 +15762,7 @@
     ]
   },
   {
+    "id": 97,
     "name": "Sea Route of Silence Gang",
     "characters": [
       {
@@ -15691,6 +15789,7 @@
     ]
   },
   {
+    "id": 98,
     "name": "Sealing Team",
     "characters": [
       {
@@ -15751,6 +15850,7 @@
     ]
   },
   {
+    "id": 99,
     "name": "Second Division",
     "characters": [
       {
@@ -16091,6 +16191,7 @@
     ]
   },
   {
+    "id": 100,
     "name": "Sensor Division",
     "characters": [
       {
@@ -16209,6 +16310,7 @@
     ]
   },
   {
+    "id": 101,
     "name": "Seven Ninja Swordsmen of the Mist",
     "characters": [
       {
@@ -16664,6 +16766,7 @@
     ]
   },
   {
+    "id": 102,
     "name": "Shin Uchiha (Clones)",
     "characters": [
       {
@@ -16701,6 +16804,7 @@
     ]
   },
   {
+    "id": 103,
     "name": "Shinobazu",
     "characters": [
       {
@@ -16791,6 +16895,7 @@
     ]
   },
   {
+    "id": 104,
     "name": "Shirogane Three",
     "characters": [
       {
@@ -16866,6 +16971,7 @@
     ]
   },
   {
+    "id": 105,
     "name": "Sound Five",
     "characters": [
       {
@@ -16906,6 +17012,7 @@
     ]
   },
   {
+    "id": 106,
     "name": "Sound Four",
     "characters": [
       {
@@ -17224,6 +17331,7 @@
     ]
   },
   {
+    "id": 107,
     "name": "Star Guard Team  (Anime only)",
     "characters": [
       {
@@ -17692,6 +17800,7 @@
     ]
   },
   {
+    "id": 108,
     "name": "Suicide Corps  (Movie only)",
     "characters": [
       {
@@ -17784,6 +17893,7 @@
     ]
   },
   {
+    "id": 109,
     "name": "Sumo Wrestlers",
     "characters": [
       {
@@ -17807,6 +17917,7 @@
     ]
   },
   {
+    "id": 110,
     "name": "Suna Council",
     "characters": [
       {
@@ -18009,6 +18120,7 @@
     ]
   },
   {
+    "id": 111,
     "name": "Suna Council  (Novel only)",
     "characters": [
       {
@@ -18053,6 +18165,7 @@
     ]
   },
   {
+    "id": 112,
     "name": "Surprise Attack Division",
     "characters": [
       {
@@ -18413,6 +18526,7 @@
     ]
   },
   {
+    "id": 113,
     "name": "Surprise Attack and Diversion Platoon",
     "characters": [
       {
@@ -18633,6 +18747,7 @@
     ]
   },
   {
+    "id": 114,
     "name": "Taka",
     "characters": [
       {
@@ -18959,6 +19074,7 @@
     ]
   },
   {
+    "id": 115,
     "name": "Team 10",
     "characters": [
       {
@@ -19475,6 +19591,7 @@
     ]
   },
   {
+    "id": 116,
     "name": "Team 15",
     "characters": [
       {
@@ -19665,6 +19782,7 @@
     ]
   },
   {
+    "id": 117,
     "name": "Team 15  (Anime only)",
     "characters": [
       {
@@ -19727,6 +19845,7 @@
     ]
   },
   {
+    "id": 118,
     "name": "Team 2",
     "characters": [
       {
@@ -19918,6 +20037,7 @@
     ]
   },
   {
+    "id": 119,
     "name": "Team 2  (Anime and Novel only)",
     "characters": [
       {
@@ -20025,6 +20145,7 @@
     ]
   },
   {
+    "id": 120,
     "name": "Team 25",
     "characters": [
       {
@@ -20120,6 +20241,7 @@
     ]
   },
   {
+    "id": 121,
     "name": "Team 25  (Anime only)",
     "characters": [
       {
@@ -20205,6 +20327,7 @@
     ]
   },
   {
+    "id": 122,
     "name": "Team 40",
     "characters": [
       {
@@ -20303,6 +20426,7 @@
     ]
   },
   {
+    "id": 123,
     "name": "Team 40  (Anime only)",
     "characters": [
       {
@@ -20403,6 +20527,7 @@
     ]
   },
   {
+    "id": 124,
     "name": "Team 5",
     "characters": [
       {
@@ -20515,6 +20640,7 @@
     ]
   },
   {
+    "id": 125,
     "name": "Team 5  (Anime only)",
     "characters": [
       {
@@ -20564,6 +20690,7 @@
     ]
   },
   {
+    "id": 126,
     "name": "Team 7",
     "characters": [
       {
@@ -20980,6 +21107,7 @@
     ]
   },
   {
+    "id": 127,
     "name": "Team 8",
     "characters": [
       {
@@ -21349,6 +21477,7 @@
     ]
   },
   {
+    "id": 128,
     "name": "Team 8  (Temporarily)",
     "characters": [
       {
@@ -21502,6 +21631,7 @@
     ]
   },
   {
+    "id": 129,
     "name": "Team 9",
     "characters": [
       {
@@ -21523,6 +21653,7 @@
     ]
   },
   {
+    "id": 130,
     "name": "Team Ajisai",
     "characters": [
       {
@@ -21609,6 +21740,7 @@
     ]
   },
   {
+    "id": 131,
     "name": "Team Ajisai  (Anime only)",
     "characters": [
       {
@@ -21645,6 +21777,7 @@
     ]
   },
   {
+    "id": 132,
     "name": "Team Ameno",
     "characters": [
       {
@@ -21732,6 +21865,7 @@
     ]
   },
   {
+    "id": 133,
     "name": "Team Asuma  (Anime only)",
     "characters": [
       {
@@ -21849,6 +21983,7 @@
     ]
   },
   {
+    "id": 134,
     "name": "Team Asuma  (Temporarily)",
     "characters": [
       {
@@ -22002,6 +22137,7 @@
     ]
   },
   {
+    "id": 135,
     "name": "Team Bandō",
     "characters": [
       {
@@ -22078,6 +22214,7 @@
     ]
   },
   {
+    "id": 136,
     "name": "Team Chōza",
     "characters": [
       {
@@ -22253,6 +22390,7 @@
     ]
   },
   {
+    "id": 137,
     "name": "Team Chōza  (Anime only)",
     "characters": [
       {
@@ -22314,6 +22452,7 @@
     ]
   },
   {
+    "id": 138,
     "name": "Team Dosu",
     "characters": [
       {
@@ -22550,6 +22689,7 @@
     ]
   },
   {
+    "id": 139,
     "name": "Team Ebisu",
     "characters": [
       {
@@ -22791,6 +22931,7 @@
     ]
   },
   {
+    "id": 140,
     "name": "Team Fū",
     "characters": [
       {
@@ -22874,6 +23015,7 @@
     ]
   },
   {
+    "id": 141,
     "name": "Team Fū  (Anime only)",
     "characters": [
       {
@@ -22911,6 +23053,7 @@
     ]
   },
   {
+    "id": 142,
     "name": "Team Ganryū",
     "characters": [
       {
@@ -22970,6 +23113,7 @@
     ]
   },
   {
+    "id": 143,
     "name": "Team Goji",
     "characters": [
       {
@@ -23034,6 +23178,7 @@
     ]
   },
   {
+    "id": 144,
     "name": "Team Guren",
     "characters": [
       {
@@ -23192,6 +23337,7 @@
     ]
   },
   {
+    "id": 145,
     "name": "Team Guy",
     "characters": [
       {
@@ -23529,6 +23675,7 @@
     ]
   },
   {
+    "id": 146,
     "name": "Team Hiruzen",
     "characters": [
       {
@@ -23939,6 +24086,7 @@
     ]
   },
   {
+    "id": 147,
     "name": "Team Jiraiya",
     "characters": [
       {
@@ -24134,6 +24282,7 @@
     ]
   },
   {
+    "id": 148,
     "name": "Team Kabuto",
     "characters": [
       {
@@ -24381,6 +24530,7 @@
     ]
   },
   {
+    "id": 149,
     "name": "Team Kajika",
     "characters": [
       {
@@ -24448,6 +24598,7 @@
     ]
   },
   {
+    "id": 150,
     "name": "Team Kakashi",
     "characters": [
       {
@@ -25343,6 +25494,7 @@
     ]
   },
   {
+    "id": 151,
     "name": "Team Kazami",
     "characters": [
       {
@@ -25422,6 +25574,7 @@
     ]
   },
   {
+    "id": 152,
     "name": "Team Komugi",
     "characters": [
       {
@@ -25505,6 +25658,7 @@
     ]
   },
   {
+    "id": 153,
     "name": "Team Matsuri",
     "characters": [
       {
@@ -25557,6 +25711,7 @@
     ]
   },
   {
+    "id": 154,
     "name": "Team Matsuri  (Anime only)",
     "characters": [
       {
@@ -25603,6 +25758,7 @@
     ]
   },
   {
+    "id": 155,
     "name": "Team Minato",
     "characters": [
       {
@@ -26034,6 +26190,7 @@
     ]
   },
   {
+    "id": 156,
     "name": "Team Oboro",
     "characters": [
       {
@@ -26184,6 +26341,7 @@
     ]
   },
   {
+    "id": 157,
     "name": "Team One  (Anime only)",
     "characters": [
       {
@@ -26713,6 +26871,7 @@
     ]
   },
   {
+    "id": 158,
     "name": "Team Orochimaru",
     "characters": [
       {
@@ -26946,6 +27105,7 @@
     ]
   },
   {
+    "id": 159,
     "name": "Team Ro",
     "characters": [
       {
@@ -26980,6 +27140,7 @@
     ]
   },
   {
+    "id": 160,
     "name": "Team Ro  (Anime only)",
     "characters": [
       {
@@ -27387,6 +27548,7 @@
     ]
   },
   {
+    "id": 161,
     "name": "Team Sajin",
     "characters": [
       {
@@ -27455,6 +27617,7 @@
     ]
   },
   {
+    "id": 162,
     "name": "Team Samui",
     "characters": [
       {
@@ -27593,6 +27756,7 @@
     ]
   },
   {
+    "id": 163,
     "name": "Team Saya",
     "characters": [
       {
@@ -27676,6 +27840,7 @@
     ]
   },
   {
+    "id": 164,
     "name": "Team Shibire",
     "characters": [
       {
@@ -27756,6 +27921,7 @@
     ]
   },
   {
+    "id": 165,
     "name": "Team Shigeri",
     "characters": [
       {
@@ -27814,6 +27980,7 @@
     ]
   },
   {
+    "id": 166,
     "name": "Team Shigure",
     "characters": [
       {
@@ -27920,6 +28087,7 @@
     ]
   },
   {
+    "id": 167,
     "name": "Team Shinki",
     "characters": [
       {
@@ -28038,6 +28206,7 @@
     ]
   },
   {
+    "id": 168,
     "name": "Team Shiore",
     "characters": [
       {
@@ -28068,6 +28237,7 @@
     ]
   },
   {
+    "id": 169,
     "name": "Team Shira",
     "characters": [
       {
@@ -28147,6 +28317,7 @@
     ]
   },
   {
+    "id": 170,
     "name": "Team Shisui  (Anime only)",
     "characters": [
       {
@@ -28200,6 +28371,7 @@
     ]
   },
   {
+    "id": 171,
     "name": "Team Shū",
     "characters": [
       {
@@ -28245,6 +28417,7 @@
     ]
   },
   {
+    "id": 172,
     "name": "Team Suien",
     "characters": [
       {
@@ -28370,6 +28543,7 @@
     ]
   },
   {
+    "id": 173,
     "name": "Team Three  (Anime only)",
     "characters": [
       {
@@ -28667,6 +28841,7 @@
     ]
   },
   {
+    "id": 174,
     "name": "Team Tobirama",
     "characters": [
       {
@@ -28907,6 +29082,7 @@
     ]
   },
   {
+    "id": 175,
     "name": "Team Two  (Anime only)",
     "characters": [
       {
@@ -29344,6 +29520,7 @@
     ]
   },
   {
+    "id": 176,
     "name": "Team Yurui",
     "characters": [
       {
@@ -29430,6 +29607,7 @@
     ]
   },
   {
+    "id": 177,
     "name": "Third Division",
     "characters": [
       {
@@ -30139,6 +30317,7 @@
     ]
   },
   {
+    "id": 178,
     "name": "Three Brothers",
     "characters": [
       {
@@ -30209,6 +30388,7 @@
     ]
   },
   {
+    "id": 179,
     "name": "Three Ryūdōin Brothers",
     "characters": [
       {
@@ -30273,6 +30453,7 @@
     ]
   },
   {
+    "id": 180,
     "name": "Three Sand Siblings",
     "characters": [
       {
@@ -30625,6 +30806,7 @@
     ]
   },
   {
+    "id": 181,
     "name": "Three Senka Brothers",
     "characters": [
       {
@@ -30700,6 +30882,7 @@
     ]
   },
   {
+    "id": 182,
     "name": "Thundercloud Unit",
     "characters": [
       {
@@ -30729,6 +30912,7 @@
     ]
   },
   {
+    "id": 183,
     "name": "Twelve Guardian Ninja",
     "characters": [
       {
@@ -30945,6 +31129,7 @@
     ]
   },
   {
+    "id": 184,
     "name": "Twenty Platoons",
     "characters": [
       {
@@ -31483,6 +31668,7 @@
     ]
   },
   {
+    "id": 185,
     "name": "Twenty Platoons  (Anime only)",
     "characters": [
       {
@@ -31541,6 +31727,7 @@
     ]
   },
   {
+    "id": 186,
     "name": "Two Great Sage Toads",
     "characters": [
       {
@@ -31643,6 +31830,7 @@
     ]
   },
   {
+    "id": 187,
     "name": "Wandering Ninja Clan",
     "characters": [
       {
@@ -31723,6 +31911,7 @@
     ]
   },
   {
+    "id": 188,
     "name": "Watari Ninja",
     "characters": [
       {
@@ -31808,6 +31997,7 @@
     ]
   },
   {
+    "id": 189,
     "name": "White Zetsu Army",
     "characters": [
       {
@@ -31911,6 +32101,7 @@
     ]
   },
   {
+    "id": 190,
     "name": "Wind Release Team",
     "characters": [
       {

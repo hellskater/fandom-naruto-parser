@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Aburame",
     "characters": [
       {
@@ -273,6 +274,7 @@
     ]
   },
   {
+    "id": 1,
     "name": "Akimichi",
     "characters": [
       {
@@ -668,6 +670,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Amagiri",
     "characters": [
       {
@@ -728,6 +731,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Chinoike",
     "characters": [
       {
@@ -788,6 +792,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Funato",
     "characters": [
       {
@@ -1053,6 +1058,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Fūma",
     "characters": [
       {
@@ -1100,6 +1106,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Fūma   (Presumed)",
     "characters": [
       {
@@ -1125,6 +1132,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Fūma  (Land of Sound)",
     "characters": [
       {
@@ -1270,6 +1278,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Hatake",
     "characters": [
       {
@@ -1452,6 +1461,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Hirasaka",
     "characters": [
       {
@@ -1483,6 +1493,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Hoshigaki",
     "characters": [
       {
@@ -1525,6 +1536,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Hoshigaki   (Anime only)",
     "characters": [
       {
@@ -1596,6 +1608,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Hyūga",
     "characters": [
       {
@@ -1982,6 +1995,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Hyūga",
     "characters": [
       {
@@ -2368,6 +2382,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Hōki Family",
     "characters": [
       {
@@ -2388,6 +2403,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Hōzuki",
     "characters": [
       {
@@ -2526,6 +2542,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Iburi",
     "characters": [
       {
@@ -2597,6 +2614,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Inuzuka",
     "characters": [
       {
@@ -2973,6 +2991,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Izuno",
     "characters": [
       {
@@ -3065,6 +3084,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Jūgo's",
     "characters": [
       {
@@ -3124,6 +3144,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Kagetsu Family",
     "characters": [
       {
@@ -3230,6 +3251,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Kaguya",
     "characters": [
       {
@@ -3287,6 +3309,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Kamizuru",
     "characters": [
       {
@@ -3421,6 +3444,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Kamizuru   (Anime only)",
     "characters": [
       {
@@ -3582,6 +3606,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Karatachi Family",
     "characters": [
       {
@@ -3620,6 +3645,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Karatachi Family  (Anime only)",
     "characters": [
       {
@@ -3675,6 +3701,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Kazekage   (Novel only)",
     "characters": [
       {
@@ -4045,6 +4072,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Kazekage   (Novel only)",
     "characters": [
       {
@@ -4415,6 +4443,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Kedōin",
     "characters": [
       {
@@ -4436,6 +4465,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Kodon",
     "characters": [
       {
@@ -4492,6 +4522,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Kurama",
     "characters": [
       {
@@ -4590,6 +4621,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Lee   (Novel only)",
     "characters": [
       {
@@ -4715,6 +4747,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Nara",
     "characters": [
       {
@@ -5026,6 +5059,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Onikuma",
     "characters": [
       {
@@ -5063,6 +5097,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Rinha",
     "characters": [
       {
@@ -5104,6 +5139,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Ryū",
     "characters": [
       {
@@ -5156,6 +5192,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Sarutobi",
     "characters": [
       {
@@ -5566,6 +5603,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Sendō",
     "characters": [
       {
@@ -5581,6 +5619,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Senju",
     "characters": [
       {
@@ -5984,6 +6023,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Senju",
     "characters": [
       {
@@ -6387,6 +6427,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Shiin",
     "characters": [
       {
@@ -6438,6 +6479,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Shimura",
     "characters": [
       {
@@ -6515,6 +6557,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Shirogane",
     "characters": [
       {
@@ -6604,6 +6647,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Tenrō",
     "characters": [
       {
@@ -6660,6 +6704,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Tsuchigumo",
     "characters": [
       {
@@ -6804,6 +6849,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Uchiha",
     "characters": [
       {
@@ -8171,6 +8217,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Uzumaki",
     "characters": [
       {
@@ -8664,6 +8711,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Uzumaki",
     "characters": [
       {
@@ -9157,6 +9205,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Wagarashi Family",
     "characters": [
       {
@@ -9177,6 +9226,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Wagarashi family",
     "characters": [
       {
@@ -9199,6 +9249,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Wasabi Family",
     "characters": [
       {
@@ -9223,6 +9274,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Wasabi Family  (Adopted)",
     "characters": [
       {
@@ -9250,6 +9302,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Yamanaka",
     "characters": [
       {
@@ -9661,6 +9714,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Yoimura",
     "characters": [
       {
@@ -9700,6 +9754,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Yota's",
     "characters": [
       {
@@ -9725,6 +9780,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Yotsuki",
     "characters": [
       {
@@ -9751,6 +9807,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Yuki",
     "characters": [
       {
@@ -9825,6 +9882,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Ōtsutsuki",
     "characters": [
       {

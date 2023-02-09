@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Boil Release",
     "characters": [
       {
@@ -364,6 +365,7 @@
     ]
   },
   {
+    "id": 1,
     "name": "Byakugan",
     "characters": [
       {
@@ -1202,6 +1204,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Crystal Release",
     "characters": [
       {
@@ -1234,6 +1237,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Dark Release",
     "characters": [
       {
@@ -1282,6 +1286,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Eternal Mangekyō Sharingan",
     "characters": [
       {
@@ -1583,6 +1588,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Explosion Release",
     "characters": [
       {
@@ -1706,6 +1712,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Iburi Clan's Kekkei Genkai",
     "characters": [
       {
@@ -1777,6 +1784,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Ice Release",
     "characters": [
       {
@@ -1930,6 +1938,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Isshiki's Dōjutsu",
     "characters": [
       {
@@ -2024,6 +2033,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Isshiki's Dōjutsu   (Manga only)",
     "characters": [
       {
@@ -2083,6 +2093,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Jōgan",
     "characters": [
       {
@@ -2192,6 +2203,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Jūgo's Clan's Kekkei Genkai",
     "characters": [
       {
@@ -2579,6 +2591,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Ketsuryūgan",
     "characters": [
       {
@@ -2639,6 +2652,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Kurama Clan's Kekkei Genkai",
     "characters": [
       {
@@ -2669,6 +2683,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Lava Release",
     "characters": [
       {
@@ -3278,6 +3293,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Lava Release   (Anime only)",
     "characters": [
       {
@@ -3314,6 +3330,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Lava Release   (Novel only)",
     "characters": [
       {
@@ -3375,6 +3392,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Magnet Release",
     "characters": [
       {
@@ -3962,6 +3980,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Magnet Release   (Novel only)",
     "characters": [
       {
@@ -4083,6 +4102,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Mangekyō Sharingan",
     "characters": [
       {
@@ -4897,6 +4917,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Mangekyō Sharingan   (Anime only)",
     "characters": [
       {
@@ -4957,6 +4978,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Mud Release",
     "characters": [
       {
@@ -4980,6 +5002,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Ranmaru's Kekkei Genkai",
     "characters": [
       {
@@ -5008,6 +5031,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Rinha Clan's Kekkei Genkai",
     "characters": [
       {
@@ -5040,6 +5064,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Rinnegan",
     "characters": [
       {
@@ -5734,6 +5759,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Ryūzetsu's Kekkei Genkai",
     "characters": [
       {
@@ -5766,6 +5792,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Sakon and Ukon's Kekkei Genkai",
     "characters": [
       {
@@ -6067,6 +6094,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Scorch Release",
     "characters": [
       {
@@ -6102,6 +6130,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Senrigan",
     "characters": [
       {
@@ -6140,6 +6169,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Sharingan",
     "characters": [
       {
@@ -7621,6 +7651,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Shikotsumyaku",
     "characters": [
       {
@@ -7922,6 +7953,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Steel Release",
     "characters": [
       {
@@ -7991,6 +8023,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Storm Release",
     "characters": [
       {
@@ -8235,6 +8268,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Swift Release",
     "characters": [
       {
@@ -8283,6 +8317,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Tenseigan",
     "characters": [
       {
@@ -8341,6 +8376,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Typhoon Release",
     "characters": [
       {
@@ -8381,6 +8417,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Wood Release",
     "characters": [
       {
@@ -9445,6 +9482,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Wood Release   (Anime only)",
     "characters": [
       {
@@ -9513,6 +9551,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Wood Release   (Novel only)",
     "characters": [
       {
